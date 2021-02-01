@@ -16,4 +16,4 @@ Notice that you must have the [.NET Core Windows runtime](https://dotnet.microso
 
 ## Contributing
 
-Any and all contributions are welcome! Please see the full [contributing guide](CONTRIBUTING.md) for more details.  
+Any and all contributions are welcome! Please see the full [contributing guide](CONTRIBUTING.md) for more details..  
